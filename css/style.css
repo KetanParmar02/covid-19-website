@@ -532,6 +532,12 @@ header .navbar ul li a:hover{
         flex-flow: column-reverse;
     }
 
+    .spread .image{
+        height: 80vh;
+        width: 50%;
+        background-size: contain;
+    }
+
 }
 
 @media (max-width:500px){
